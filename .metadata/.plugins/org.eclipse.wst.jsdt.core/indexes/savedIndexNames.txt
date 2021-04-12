@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\RGVMS_project-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+276383367.index
+3276927193.index
+2003614107.index
+1222931381.index
+1360721412.index
